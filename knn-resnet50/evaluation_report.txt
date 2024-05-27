@@ -1,0 +1,16 @@
+Evaluation Accuracy: 0.5288
+F1 Score: 0.4989
+Macro AUC: 0.7941
+Weighted AUC: 0.7932
+
+Class-wise AUC Scores:
+Class 0 AUC: 0.9720
+Class 1 AUC: 0.9159
+Class 2 AUC: 0.7692
+Class 3 AUC: 0.8758
+Class 4 AUC: 0.7187
+Class 5 AUC: 0.9134
+Class 6 AUC: 0.8216
+Class 7 AUC: 0.5636
+Class 8 AUC: 0.7787
+Class 9 AUC: 0.6119
