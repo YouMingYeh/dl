@@ -1,0 +1,11 @@
+datasets
+matplotlib
+scikit-learn
+torch
+torchvision
+numpy
+Pillow
+timm
+seaborn
+tqdm
+urllib3
